@@ -1,0 +1,10 @@
+D:\проекты visual studio\Лабораторная 1 аттестация\bin\Debug\Лабораторная 1 аттестация.exe.config
+D:\проекты visual studio\Лабораторная 1 аттестация\bin\Debug\Лабораторная 1 аттестация.exe
+D:\проекты visual studio\Лабораторная 1 аттестация\bin\Debug\Лабораторная 1 аттестация.pdb
+D:\проекты visual studio\Лабораторная 1 аттестация\obj\Debug\Лабораторная 1 аттестация.csprojAssemblyReference.cache
+D:\проекты visual studio\Лабораторная 1 аттестация\obj\Debug\Лабораторная_1_аттестация.Form1.resources
+D:\проекты visual studio\Лабораторная 1 аттестация\obj\Debug\Лабораторная_1_аттестация.Properties.Resources.resources
+D:\проекты visual studio\Лабораторная 1 аттестация\obj\Debug\Лабораторная 1 аттестация.csproj.GenerateResource.cache
+D:\проекты visual studio\Лабораторная 1 аттестация\obj\Debug\Лабораторная 1 аттестация.csproj.CoreCompileInputs.cache
+D:\проекты visual studio\Лабораторная 1 аттестация\obj\Debug\Лабораторная 1 аттестация.exe
+D:\проекты visual studio\Лабораторная 1 аттестация\obj\Debug\Лабораторная 1 аттестация.pdb
